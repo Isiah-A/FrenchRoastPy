@@ -1,6 +1,5 @@
 import pandas as pd
 import json
-import os
 
 #create account for user info to go into
 class Account:
